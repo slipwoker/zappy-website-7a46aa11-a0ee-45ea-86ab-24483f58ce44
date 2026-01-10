@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urban-balcony-7a46aa11.zappy5.app/sitemap.xml
