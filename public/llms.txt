@@ -1,57 +1,47 @@
-# Urban Balcony — Generative Engine Optimization Map
-
-> A גינון ועיצוב נוף עירוני business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://urban-balcony-7a46aa11.zappy5.app
+https://example.com
 גלו עיצוב גינות גג מקצועי ואלגנטי. Urban Balcony מתמחה בהפיכת מרפסות עירוניות למרחבי נופש ייחודיים. צרו קשר לייעוץ חינם!
 
 ### שירותים
-https://urban-balcony-7a46aa11.zappy5.app/services
+https://example.com/services
 שירותי עיצוב גינות גג מקיפים: תכנון, שתילה, תחזוקה ופתרונות רצפה. Urban Balcony מציעה the urban balcony מותאמים אישית לכל מרפסת עירונית.
 
 ### אודות
-https://urban-balcony-7a46aa11.zappy5.app/about
+https://example.com/about
 הכירו את Urban Balcony - המומחים לעיצוב גינות גג במרכז. הסיפור שלנו, הערכים והמחויבות שלנו ליצירת מרחבים עירוניים ייחודיים ומעוצבים.
 
 ### צור קשר
-https://urban-balcony-7a46aa11.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם Urban Balcony לייעוץ חינם בעיצוב גינות גג. מלאו את הטופס או התקשרו אלינו ונחזור אליכם בהקדם. נשמח לעזור לכם להגשים את החזון שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://urban-balcony-7a46aa11.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://urban-balcony-7a46aa11.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://urban-balcony-7a46aa11.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Urban Balcony
-Urban Balcony is a business in the גינון ועיצוב נוף עירוני industry.
-
-## Target Audience
-תושבי אזור המרכז עם מרפסות קטנות וגגות
-
-## Industry
-גינון ועיצוב נוף עירוני
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://urban-balcony-7a46aa11.zappy5.app/sitemap.xml
-- **Robots.txt**: https://urban-balcony-7a46aa11.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

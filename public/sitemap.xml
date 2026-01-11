@@ -1,45 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/services</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/en</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+  </url>
+  <url>
+    <loc>https://example.com/fr</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+  </url>
+  <url>
+    <loc>https://example.com/services</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/services" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/about</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/en/services</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/services" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/contact</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/fr/services</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/services" />
+  </url>
+  <url>
+    <loc>https://example.com/about</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/about" />
+  </url>
+  <url>
+    <loc>https://example.com/en/about</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/about" />
+  </url>
+  <url>
+    <loc>https://example.com/fr/about</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/about" />
+  </url>
+  <url>
+    <loc>https://example.com/contact</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/privacy</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/en/contact</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/terms</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/fr/contact</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
   </url>
   <url>
-    <loc>https://urban-balcony-7a46aa11.zappy5.app/accessibility</loc>
-    <lastmod>2026-01-10</lastmod>
+    <loc>https://example.com/privacy</loc>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/en/privacy</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/fr/privacy</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/en/terms</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/fr/terms</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/accessibility</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://example.com/en/accessibility</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://example.com/fr/accessibility</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
   </url>
 </urlset>
