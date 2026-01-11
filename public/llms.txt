@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Urban Balcony — Generative Engine Optimization Map
+
+> A גינון ועיצוב נוף עירוני business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://urban-balcony.zappy5.app
 גלו עיצוב גינות גג מקצועי ואלגנטי. Urban Balcony מתמחה בהפיכת מרפסות עירוניות למרחבי נופש ייחודיים. צרו קשר לייעוץ חינם!
 
 ### שירותים
-https://example.com/services
+https://urban-balcony.zappy5.app/services
 שירותי עיצוב גינות גג מקיפים: תכנון, שתילה, תחזוקה ופתרונות רצפה. Urban Balcony מציעה the urban balcony מותאמים אישית לכל מרפסת עירונית.
 
 ### אודות
-https://example.com/about
+https://urban-balcony.zappy5.app/about
 הכירו את Urban Balcony - המומחים לעיצוב גינות גג במרכז. הסיפור שלנו, הערכים והמחויבות שלנו ליצירת מרחבים עירוניים ייחודיים ומעוצבים.
 
 ### צור קשר
-https://example.com/contact
+https://urban-balcony.zappy5.app/contact
 צרו קשר עם Urban Balcony לייעוץ חינם בעיצוב גינות גג. מלאו את הטופס או התקשרו אלינו ונחזור אליכם בהקדם. נשמח לעזור לכם להגשים את החזון שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://urban-balcony.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://urban-balcony.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://urban-balcony.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Urban Balcony
+Urban Balcony is a business in the גינון ועיצוב נוף עירוני industry.
+
+## Target Audience
+תושבי אזור המרכז עם מרפסות קטנות וגגות
+
+## Industry
+גינון ועיצוב נוף עירוני
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://urban-balcony.zappy5.app/sitemap.xml
+- **Robots.txt**: https://urban-balcony.zappy5.app/robots.txt
